@@ -39,7 +39,8 @@ public class SubscriberRequest {
     @Version
     private long version;
 
-    @PreInsert
+    //@PreInsert This is supposed to be @PrePersist
+    @PrePersist
     protected void init() {
         if(id == null) {
             id = KeyGen.getUniqueId();
