@@ -9,3 +9,5 @@ econet-utils/econet-utils.iml
 electronic-payments-dao/electronic-payments-dao.iml
 intelligent-network-parent/intelligent-network-parent.iml
 intelligent-network-reactor.iml
+electronic-payments-dao/target/
+electronic-payments-business/target/

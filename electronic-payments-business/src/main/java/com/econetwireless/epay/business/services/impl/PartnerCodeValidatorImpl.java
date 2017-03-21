@@ -13,7 +13,9 @@ public class PartnerCodeValidatorImpl implements PartnerCodeValidator{
     private RequestPartnerDao requestPartnerDao;
 
     public PartnerCodeValidatorImpl(RequestPartnerDao requestPartnerDao) {
-        this(super);
+       //super key word is used to refer to the immediate parent class instance variable
+        // or methods
+        //this(super);
         this.requestPartnerDao = requestPartnerDao;
     }
 
