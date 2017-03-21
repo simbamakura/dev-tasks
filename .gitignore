@@ -1,0 +1,11 @@
+econet-utils/target/
+.idea/libraries/Maven__org_springframework_spring_tx_4_3_5_RELEASE.xml
+.idea/
+electronic-payments-domain/electronic-payments-domain.iml
+intelligent-network-api/intelligent-network-api.iml
+electronic-payments-business/electronic-payments-business.iml
+electronic-payments-api/electronic-payments-api.iml
+econet-utils/econet-utils.iml
+electronic-payments-dao/electronic-payments-dao.iml
+intelligent-network-parent/intelligent-network-parent.iml
+intelligent-network-reactor.iml
